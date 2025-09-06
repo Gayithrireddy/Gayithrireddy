@@ -38,9 +38,9 @@
 
 ### 📬 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/gayathri-pokkireddy" target="_blank">LinkedIn</a> •
+  <a href="www.linkedin.com/in/gayathri-pokkireddy-967b28259" target="_blank">LinkedIn</a> •
   <a href="https://github.com/GayathriPokkireddy" target="_blank">GitHub</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:gayathri.reddy4827@example.com">Email</a>
 </p>
 
 ---
