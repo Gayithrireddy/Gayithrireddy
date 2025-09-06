@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gayathri-pokkireddy-967b28259/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/Gayithrireddy" target="_blank">GitHub</a> •
-  <a href="mailto:gayathri.reddy4827@example.com">Email</a>
+  <a href="mailto:gayathri.reddy4827@gmail.com">Email</a>
 </p>
 
 ---
