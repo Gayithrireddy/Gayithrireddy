@@ -9,9 +9,11 @@
 
 ### 💻 About Me
 - 👩‍💻 I develop **dynamic web applications** and **Python-based projects**.
-- 🏆 Led a **hackathon-winning cybersecurity project**.
 - 🌱 Passionate about **AI, Machine Learning, Deep Learning, and Full Stack Development**.
-- 📫 Connect with me via **LinkedIn or GitHub**.
+- ✨ Personal Motto – “I don’t just write code, I craft experiences that inspire.”
+- 📈 Growth-Oriented – I constantly explore new tools, frameworks, and technologies, pushing myself beyond comfort zones.
+- 🎯 Believer in "Learn, Build, Share" – Always open to collaborating, contributing to open source, and sharing knowledge.
+  
 
 ---
 
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Django-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" style="margin: 5px;">
 </p>
 
