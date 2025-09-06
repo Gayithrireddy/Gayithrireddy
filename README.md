@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayithri Pokkireddy</h1>
-<h3 align="center">Python Full Stack Developer  | Tech Enthusiast</h3>
+<h3 align="center">Python Full Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/c8/7a/a5/c87aa5a2adc0ac60659100f3e880aa41.jpg" alt="Profile Banner" width="400px">
+</p>
 
 ---
 
@@ -17,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Django-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" style="margin: 5px;">
 </p>
 
@@ -48,4 +52,5 @@
 <p align="center">
   <b>“Striving to learn, build, and innovate.”</b>
 </p>
+
 
